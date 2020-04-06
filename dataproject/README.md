@@ -1,14 +1,12 @@
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **Fertility and GDP** and is about the correlation between the 5 year growth of fertility in different agegroups and growth of GDP. The hypothesis is that with growing GDP the fertility in the agespan of 26-40 will increase and fertility of the agespan 15-25 will decrease, as more women will engage in education and make career and thereby postpone childbirth.
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running [DataAnalysisProject.ipynb](DataAnalysisProject.ipynb).
 
 This **loades two datasets**:
 
-1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
-1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
+1. FOD33.xlsx downloaded from statistikbanekn.dk/FOD33
+1. NAN.xlsx downloaded from statistikbanekn.dk/NAN1
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
-
-``pip install matplotlib-venn``
+No further packages are needed to run the project
