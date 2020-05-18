@@ -4,5 +4,9 @@ My project is titled Cournot competition and is about solving a market where Cou
 
 The **results** of the project can be seen from running [CournotMP.ipynb](CournotMP.ipynb).
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires numpy, matplitlip, sympy and scipy.
+**Dependencies:** The relevant packages are:
 
+- import numpy as np
+- import scipy as sp
+- import sympy as sm
+- import matplotlib.pyplot as plt
