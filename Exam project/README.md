@@ -18,3 +18,5 @@ The second assignment deal with durable purchases and requires packages not cove
 
 **Assignment 3**
 The third assignment concerns gradient descent and is an algorithmically based exercise. This does not need any further packages to be imported.
+
+**The results** can be found by running the following code [exam_2020.ipynp](exam_2020.ipynp)
