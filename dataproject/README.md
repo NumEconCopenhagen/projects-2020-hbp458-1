@@ -9,4 +9,10 @@ This **loades two datasets**:
 1. FOD33.xlsx downloaded from statistikbanekn.dk/FOD33
 1. NAN.xlsx downloaded from statistikbanekn.dk/NAN1
 
-No further packages are needed to run the project
+The packages needed to run the project are:
+
+- import matplotlib.pyplot as plt
+- import numpy as pd
+- import pandas as pd
+- import ipywidgets as widgets
+- import seaborn as sn
